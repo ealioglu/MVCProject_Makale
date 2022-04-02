@@ -1,0 +1,10 @@
+﻿.validation-summary-errors {
+    border: 2px dotted #ff0000;
+    background-color: #ff0000;
+    border-radius: 10px;
+}
+
+    .validation-summary-errors ul {
+        list-style-type: none;
+        padding: 10px;
+    }
